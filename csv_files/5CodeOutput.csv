@@ -1,0 +1,8 @@
+Sell Trade Profitability by Market Sentiment:
+
+                count        mean    median          std           sum
+classification                                                        
+Greed           20868  143.617782  1.722882  1171.610743  2.997016e+06
+Fear            67790   42.222976  0.449315   527.739177  2.862296e+06
+Neutral          3636   28.576120  0.000000   874.717417  1.039028e+05
+Extreme Greed    3591   25.268770  0.147000   405.912897  9.074015e+04

@@ -1,0 +1,21 @@
+Overlap count: 184263
+   Execution Price  Size Tokens  Size USD Side     Timestamp IST  \
+0           7.9769       986.87   7872.16  BUY  02-12-2024 22:50   
+1           7.9800        16.00    127.68  BUY  02-12-2024 22:50   
+2           7.9855       144.09   1150.63  BUY  02-12-2024 22:50   
+3           7.9874       142.98   1142.04  BUY  02-12-2024 22:50   
+4           7.9894         8.73     69.75  BUY  02-12-2024 22:50   
+
+   Start Position Direction  Closed PnL  Crossed       Fee     Timestamp  \
+0        0.000000       Buy         0.0     True  0.345404  1.730000e+12   
+1      986.524596       Buy         0.0     True  0.005600  1.730000e+12   
+2     1002.518996       Buy         0.0     True  0.050431  1.730000e+12   
+3     1146.558564       Buy         0.0     True  0.050043  1.730000e+12   
+4     1289.488521       Buy         0.0     True  0.003055  1.730000e+12   
+
+        Date classification  value  
+0 2024-10-27          Greed   74.0  
+1 2024-10-27          Greed   74.0  
+2 2024-10-27          Greed   74.0  
+3 2024-10-27          Greed   74.0  
+4 2024-10-27          Greed   74.0  

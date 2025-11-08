@@ -1,0 +1,7 @@
+classification
+Fear             133871
+Greed             36289
+NaN               26961
+Neutral            7141
+Extreme Greed      6962
+Name: count, dtype: int64

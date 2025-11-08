@@ -1,0 +1,8 @@
+Sell Trade Losses by Market Sentiment:
+
+                count         mean     median          std     total_loss
+classification                                                           
+Fear             5944  -139.352415 -10.291996   897.058595 -828310.756845
+Greed            2141   -76.820066  -5.460980   670.889203 -164471.761942
+Neutral           115 -1198.647319 -43.669425  3810.957157 -137844.441639
+Extreme Greed     528  -119.722181  -2.770185   990.107319  -63213.311343

@@ -1,0 +1,14 @@
+How many buy trades happen under each sentiment:
+classification
+Fear             66081
+Greed            15421
+Neutral           3505
+Extreme Greed     3371
+Name: Side, dtype: int64
+How many SELL trades happen under each sentiment:
+classification
+Fear             67790
+Greed            20868
+Neutral           3636
+Extreme Greed     3591
+Name: Side, dtype: int64
